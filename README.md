@@ -6,13 +6,13 @@ This project displays a list of robots a galactic web app that will allow the us
 
 To get this project started u just need to visit the link below:
 
-        bot-code-challlenge.vercel.app
+        https://phase2-week2-code-challenge.vercel.app/
 
 ## deployment link
 
 To view the project deployment visit the link below 
 
-        bot-code-challlenge.vercel.app
+        https://phase2-week2-code-challenge.vercel.app/
 
 ## Author
 this project has been contributed by: Kaltuma Noor
